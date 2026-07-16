@@ -11,7 +11,7 @@ If this sounds like someone you know, definitely send them our way.
 
 ## Quickstart
 
-Give your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).
+Give your agent Superpowers: [Claude Code](#claude-code), [Antigravity](#antigravity), [Codex App](#codex-app), [Codex CLI](#codex-cli), [Cursor](#cursor), [Devin CLI](#devin-cli), [Factory Droid](#factory-droid), [Gemini CLI](#gemini-cli), [GitHub Copilot CLI](#github-copilot-cli), [Kimi Code](#kimi-code), [OpenCode](#opencode), [Pi](#pi).
 
 ## How it works
 
@@ -107,6 +107,20 @@ Superpowers is available via the [official Codex plugin marketplace](https://git
   ```
 
 - Or search for "superpowers" in the plugin marketplace.
+
+### Devin CLI
+
+- Install the plugin from this repository:
+
+  ```bash
+  devin plugins install obra/superpowers
+  ```
+
+- Update to the latest version with:
+
+  ```bash
+  devin plugins update superpowers
+  ```
 
 ### Factory Droid
 
